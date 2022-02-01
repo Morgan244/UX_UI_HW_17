@@ -1,0 +1,79 @@
+.navigation{
+    display: flex;
+}
+.inline-block{
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+.logo{
+    background: #C14953;
+    height: 100px;
+    width: 400px;
+    background-image: url("../images/PNG\ Logo.png");
+    background-size: 75px 75px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.logo2{
+    background: #F2CCC3;
+    height: 50px;
+    width: 67%;
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+    padding: 20px 40px;
+}
+img{
+    border-radius: 50%;
+}
+.box{
+    background-color: #F2CCC3;
+    width: 300px;
+    font-size: medium;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 10px;
+    float: right;
+    text-align: left;
+}
+button{
+    align-items: center;
+}
+footer{
+    height: 40px;
+    background-color:#C14953;
+    clear:both;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+li{
+    width:300px;
+    display:inline-block;
+    text-align:center;
+}
+.claim{
+    margin-left: 15%;
+    padding-top: 5%; 
+    padding-left: 25%;
+    margin: 0%;
+    
+}
+.heroImg{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+h1{
+    margin: 0%;
+    text-align: left;
+}
